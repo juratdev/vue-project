@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "firstname": "Mirzo",
+      "lastname": "Bekpolatov",
+      "id": 2
+    },
+    {
+      "firstname": "Jur'atbek",
+      "lastname": "Raximbayev",
+      "id": 3
+    }
+  ]
+}
